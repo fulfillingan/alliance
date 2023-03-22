@@ -84,7 +84,7 @@
 }
 .slider-block {
     background: url(/img/shutterstock_795013699\ 1.png) no-repeat;
-    background-color: rgba(55, 46, 46, 0.4);
+    /* background-color: rgba(55, 46, 46, 0.4); */
     background-size: cover;
     /* height: 687px; */
     padding: 56px;
